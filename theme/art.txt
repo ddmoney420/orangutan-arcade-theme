@@ -416,6 +416,75 @@ pic frame-103-0.png art/hero/ko.png 23 23 -4 -7
 pic frame-103-1.png art/hero/ko.png 23 23 -4 -7
 pic frame-103-2.png art/hero/ko.png 23 23 -4 -7
 pic frame-103-3.png art/hero/ko.png 23 23 -4 -7
+# --- hero: the death spin drawn on the KO picture when the game skipped it (normal mode) ---
+timed frame-103-0.png 0 1000000 art/hero/ko.png 23 23 -4 -7 after=frame-87-0.png
+timed frame-103-0.png 0 6 art/hero/front.png 23 23 -4 -7
+timed frame-103-0.png 6 12 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-0.png 12 18 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-0.png 18 24 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-0.png 24 30 art/hero/front.png 23 23 -4 -7
+timed frame-103-0.png 30 36 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-0.png 36 42 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-0.png 42 48 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-0.png 48 54 art/hero/front.png 23 23 -4 -7
+timed frame-103-0.png 54 60 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-0.png 60 66 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-0.png 66 72 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-0.png 72 78 art/hero/front.png 23 23 -4 -7
+timed frame-103-0.png 78 84 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-0.png 84 90 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-0.png 90 96 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-1.png 0 1000000 art/hero/ko.png 23 23 -4 -7 after=frame-87-1.png
+timed frame-103-1.png 0 6 art/hero/front.png 23 23 -4 -7
+timed frame-103-1.png 6 12 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-1.png 12 18 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-1.png 18 24 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-1.png 24 30 art/hero/front.png 23 23 -4 -7
+timed frame-103-1.png 30 36 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-1.png 36 42 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-1.png 42 48 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-1.png 48 54 art/hero/front.png 23 23 -4 -7
+timed frame-103-1.png 54 60 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-1.png 60 66 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-1.png 66 72 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-1.png 72 78 art/hero/front.png 23 23 -4 -7
+timed frame-103-1.png 78 84 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-1.png 84 90 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-1.png 90 96 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-2.png 0 1000000 art/hero/ko.png 23 23 -4 -7 after=frame-87-2.png
+timed frame-103-2.png 0 6 art/hero/front.png 23 23 -4 -7
+timed frame-103-2.png 6 12 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-2.png 12 18 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-2.png 18 24 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-2.png 24 30 art/hero/front.png 23 23 -4 -7
+timed frame-103-2.png 30 36 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-2.png 36 42 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-2.png 42 48 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-2.png 48 54 art/hero/front.png 23 23 -4 -7
+timed frame-103-2.png 54 60 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-2.png 60 66 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-2.png 66 72 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-2.png 72 78 art/hero/front.png 23 23 -4 -7
+timed frame-103-2.png 78 84 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-2.png 84 90 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-2.png 90 96 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-3.png 0 1000000 art/hero/ko.png 23 23 -4 -7 after=frame-87-3.png
+timed frame-103-3.png 0 6 art/hero/front.png 23 23 -4 -7
+timed frame-103-3.png 6 12 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-3.png 12 18 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-3.png 18 24 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-3.png 24 30 art/hero/front.png 23 23 -4 -7
+timed frame-103-3.png 30 36 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-3.png 36 42 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-3.png 42 48 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-3.png 48 54 art/hero/front.png 23 23 -4 -7
+timed frame-103-3.png 54 60 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-3.png 60 66 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-3.png 66 72 art/hero/spin-right.png 23 23 -4 -7
+timed frame-103-3.png 72 78 art/hero/front.png 23 23 -4 -7
+timed frame-103-3.png 78 84 art/hero/spin-left.png 23 23 -4 -7
+timed frame-103-3.png 84 90 art/hero/spin-down.png 23 23 -4 -7
+timed frame-103-3.png 90 96 art/hero/spin-right.png 23 23 -4 -7
 # --- barrels, smash effects, fire creatures, hammer, items, springs ---
 pic frame-0-0.png art/props/barrel-roll-0.png 12 12 2 1
 pic frame-0-1.png art/props/barrel-roll-0.png 12 12 2 1
@@ -577,10 +646,10 @@ pic frame-55-0.png art/props/blank.png 1 1 0 0
 pic frame-55-1.png art/props/blank.png 1 1 0 0
 pic frame-55-2.png art/props/blank.png 1 1 0 0
 pic frame-55-3.png art/props/blank.png 1 1 0 0
-pic frame-56-0.png art/props/carry-a.png 48 40 0 0
-pic frame-56-1.png art/props/carry-a.png 48 40 0 0
-pic frame-56-2.png art/props/carry-a.png 48 40 0 0
-pic frame-56-3.png art/props/carry-a.png 48 40 0 0
+pic frame-56-0.png art/props/blank.png 1 1 0 0
+pic frame-56-1.png art/props/blank.png 1 1 0 0
+pic frame-56-2.png art/props/blank.png 1 1 0 0
+pic frame-56-3.png art/props/blank.png 1 1 0 0
 pic frame-57-0.png art/props/blank.png 1 1 0 0
 pic frame-57-1.png art/props/blank.png 1 1 0 0
 pic frame-57-2.png art/props/blank.png 1 1 0 0
@@ -601,10 +670,10 @@ pic frame-61-0.png art/props/blank.png 1 1 0 0
 pic frame-61-1.png art/props/blank.png 1 1 0 0
 pic frame-61-2.png art/props/blank.png 1 1 0 0
 pic frame-61-3.png art/props/blank.png 1 1 0 0
-pic frame-62-0.png art/props/carry-b.png 48 40 0 -8
-pic frame-62-1.png art/props/carry-b.png 48 40 0 -8
-pic frame-62-2.png art/props/carry-b.png 48 40 0 -8
-pic frame-62-3.png art/props/carry-b.png 48 40 0 -8
+pic frame-62-0.png art/props/blank.png 1 1 0 0
+pic frame-62-1.png art/props/blank.png 1 1 0 0
+pic frame-62-2.png art/props/blank.png 1 1 0 0
+pic frame-62-3.png art/props/blank.png 1 1 0 0
 pic frame-63-0.png art/props/blank.png 1 1 0 0
 pic frame-63-1.png art/props/blank.png 1 1 0 0
 pic frame-63-2.png art/props/blank.png 1 1 0 0
@@ -673,6 +742,51 @@ pic frame-19.png art/props/blank.png 1 1 0 0
 pic frame-54.png art/props/blank.png 1 1 0 0
 # --- fire creatures face the way they move ---
 face frame-22-0.png frame-22-1.png frame-22-2.png frame-22-3.png frame-27-0.png frame-27-1.png frame-27-2.png frame-27-3.png frame-28-0.png frame-28-1.png frame-28-2.png frame-28-3.png frame-29-0.png frame-29-1.png frame-29-2.png frame-29-3.png frame-30-0.png frame-30-1.png frame-30-2.png frame-30-3.png frame-31-0.png frame-31-1.png frame-31-2.png frame-31-3.png frame-32-0.png frame-32-1.png frame-32-2.png frame-32-3.png frame-33-0.png frame-33-1.png frame-33-2.png frame-33-3.png
+# --- stage-clear carry: the boss climbs away with her, drawn on her picture for the whole climb ---
+timed frame-76-0.png 0 11 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-0.png 11 22 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-0.png 22 33 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-0.png 33 44 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-0.png 44 55 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-0.png 55 66 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-0.png 66 77 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-0.png 77 88 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-0.png 88 99 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-0.png 99 110 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-0.png 110 400 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-1.png 0 11 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-1.png 11 22 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-1.png 22 33 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-1.png 33 44 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-1.png 44 55 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-1.png 55 66 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-1.png 66 77 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-1.png 77 88 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-1.png 88 99 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-1.png 99 110 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-1.png 110 400 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-2.png 0 11 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-2.png 11 22 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-2.png 22 33 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-2.png 33 44 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-2.png 44 55 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-2.png 55 66 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-2.png 66 77 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-2.png 77 88 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-2.png 88 99 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-2.png 99 110 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-2.png 110 400 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-3.png 0 11 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-3.png 11 22 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-3.png 22 33 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-3.png 33 44 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-3.png 44 55 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-3.png 55 66 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-3.png 66 77 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-3.png 77 88 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-3.png 88 99 art/props/carry-b.png 48 40 -29 -15
+timed frame-76-3.png 99 110 art/props/carry-a.png 48 40 -29 -15
+timed frame-76-3.png 110 400 art/props/carry-b.png 48 40 -29 -15
 # --- lettering: original chrome lettering (Russo One / Bungee, SIL OFL) ---
 pic glyph-0-3-20.png art/lettering/glyphs/glyph-0-20.png 8 8 0 0
 pic glyph-0-3-23.png art/lettering/glyphs/glyph-0-23.png 8 8 0 0

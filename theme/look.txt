@@ -2,3 +2,17 @@ gp-look 1
 id orangutan-arcade
 title Orangutan Arcade
 art art.txt
+file sound/roles/title_tune.wav
+file sound/roles/game_start.wav
+file sound/roles/stage_intro.wav
+file sound/roles/stage_music.wav
+file sound/roles/hammer_music.wav
+file sound/roles/hurry_music.wav
+file sound/roles/clear.wav
+file sound/roles/pause.wav
+file sound/roles/jump_over.wav
+file sound/roles/walk.wav
+file sound/roles/jump.wav
+file sound/roles/smash.wav
+file sound/roles/death.wav
+file sound/roles/thump.wav
