@@ -115,201 +115,201 @@ timed frame-74-3.png 418 426 art/senorita/heel-tap.png 26 41 -5 -4 every=480
 timed frame-74-3.png 426 456 art/senorita/leg-shift.png 26 41 -5 -4 every=480
 timed frame-74-3.png 456 480 art/senorita/look-left.png 26 41 -5 -4 every=480
 # --- boss: base pose per build picture ---
-pic frame-41-0.png art/boss/idle.png 47 44 3 -12
-pic frame-41-1.png art/boss/idle.png 47 44 3 -12
-pic frame-41-2.png art/boss/idle.png 47 44 3 -12
-pic frame-41-3.png art/boss/idle.png 47 44 3 -12
-pic frame-42-0.png art/boss/grab-left.png 47 44 3 -12
-pic frame-42-1.png art/boss/grab-left.png 47 44 3 -12
-pic frame-42-2.png art/boss/grab-left.png 47 44 3 -12
-pic frame-42-3.png art/boss/grab-left.png 47 44 3 -12
-pic frame-43-0.png art/boss/hold.png 47 44 3 -12
-pic frame-43-1.png art/boss/hold.png 47 44 3 -12
-pic frame-43-2.png art/boss/hold.png 47 44 3 -12
-pic frame-43-3.png art/boss/hold.png 47 44 3 -12
-pic frame-44-0.png art/boss/idle.png 47 44 3 -12
-pic frame-44-1.png art/boss/idle.png 47 44 3 -12
-pic frame-44-2.png art/boss/idle.png 47 44 3 -12
-pic frame-44-3.png art/boss/idle.png 47 44 3 -12
-pic frame-45-0.png art/boss/fist.png 47 44 3 -12
-pic frame-45-1.png art/boss/fist.png 47 44 3 -12
-pic frame-45-2.png art/boss/fist.png 47 44 3 -12
-pic frame-45-3.png art/boss/fist.png 47 44 3 -12
-pic frame-46-0.png art/boss/pound-a.png 47 44 3 -12
-pic frame-46-1.png art/boss/pound-a.png 47 44 3 -12
-pic frame-46-2.png art/boss/pound-a.png 47 44 3 -12
-pic frame-46-3.png art/boss/pound-a.png 47 44 3 -12
-pic frame-47-0.png art/boss/glare.png 47 44 3 -12
-pic frame-47-1.png art/boss/glare.png 47 44 3 -12
-pic frame-47-2.png art/boss/glare.png 47 44 3 -12
-pic frame-47-3.png art/boss/glare.png 47 44 3 -12
-pic frame-48-0.png art/boss/shout.png 47 44 3 -12
-pic frame-48-1.png art/boss/shout.png 47 44 3 -12
-pic frame-48-2.png art/boss/shout.png 47 44 3 -12
-pic frame-48-3.png art/boss/shout.png 47 44 3 -12
-pic frame-49-0.png art/boss/pound-b.png 47 44 3 -12
-pic frame-49-1.png art/boss/pound-b.png 47 44 3 -12
-pic frame-49-2.png art/boss/pound-b.png 47 44 3 -12
-pic frame-49-3.png art/boss/pound-b.png 47 44 3 -12
-pic frame-50-0.png art/boss/idle.png 47 44 3 -12
-pic frame-50-1.png art/boss/idle.png 47 44 3 -12
-pic frame-50-2.png art/boss/idle.png 47 44 3 -12
-pic frame-50-3.png art/boss/idle.png 47 44 3 -12
-pic frame-51-0.png art/boss/shout.png 47 44 3 -12
-pic frame-51-1.png art/boss/shout.png 47 44 3 -12
-pic frame-51-2.png art/boss/shout.png 47 44 3 -12
-pic frame-51-3.png art/boss/shout.png 47 44 3 -12
-pic frame-52-0.png art/boss/pound-b.png 47 44 3 -12
-pic frame-52-1.png art/boss/pound-b.png 47 44 3 -12
-pic frame-52-2.png art/boss/pound-b.png 47 44 3 -12
-pic frame-52-3.png art/boss/pound-b.png 47 44 3 -12
-pic frame-53-0.png art/boss/reach-left.png 47 44 3 -12
-pic frame-53-1.png art/boss/reach-left.png 47 44 3 -12
-pic frame-53-2.png art/boss/reach-left.png 47 44 3 -12
-pic frame-53-3.png art/boss/reach-left.png 47 44 3 -12
-pic frame-66-0.png art/boss/fall.png 47 44 3 -12
-pic frame-66-1.png art/boss/fall.png 47 44 3 -12
-pic frame-66-2.png art/boss/fall.png 47 44 3 -12
-pic frame-66-3.png art/boss/fall.png 47 44 3 -12
-pic frame-67-0.png art/boss/crash.png 47 44 3 -12
-pic frame-67-1.png art/boss/crash.png 47 44 3 -12
-pic frame-67-2.png art/boss/crash.png 47 44 3 -12
-pic frame-67-3.png art/boss/crash.png 47 44 3 -12
-pic frame-68-0.png art/boss/crash.png 47 44 3 -12
-pic frame-68-1.png art/boss/crash.png 47 44 3 -12
-pic frame-68-2.png art/boss/crash.png 47 44 3 -12
-pic frame-68-3.png art/boss/crash.png 47 44 3 -12
+pic frame-41-0.png art/boss/idle.png 55 49 3 -17
+pic frame-41-1.png art/boss/idle.png 55 49 3 -17
+pic frame-41-2.png art/boss/idle.png 55 49 3 -17
+pic frame-41-3.png art/boss/idle.png 55 49 3 -17
+pic frame-42-0.png art/boss/grab-left.png 55 49 3 -17
+pic frame-42-1.png art/boss/grab-left.png 55 49 3 -17
+pic frame-42-2.png art/boss/grab-left.png 55 49 3 -17
+pic frame-42-3.png art/boss/grab-left.png 55 49 3 -17
+pic frame-43-0.png art/boss/hold.png 55 49 3 -17
+pic frame-43-1.png art/boss/hold.png 55 49 3 -17
+pic frame-43-2.png art/boss/hold.png 55 49 3 -17
+pic frame-43-3.png art/boss/hold.png 55 49 3 -17
+pic frame-44-0.png art/boss/idle.png 55 49 3 -17
+pic frame-44-1.png art/boss/idle.png 55 49 3 -17
+pic frame-44-2.png art/boss/idle.png 55 49 3 -17
+pic frame-44-3.png art/boss/idle.png 55 49 3 -17
+pic frame-45-0.png art/boss/fist.png 55 49 3 -17
+pic frame-45-1.png art/boss/fist.png 55 49 3 -17
+pic frame-45-2.png art/boss/fist.png 55 49 3 -17
+pic frame-45-3.png art/boss/fist.png 55 49 3 -17
+pic frame-46-0.png art/boss/pound-a.png 55 49 3 -17
+pic frame-46-1.png art/boss/pound-a.png 55 49 3 -17
+pic frame-46-2.png art/boss/pound-a.png 55 49 3 -17
+pic frame-46-3.png art/boss/pound-a.png 55 49 3 -17
+pic frame-47-0.png art/boss/glare.png 55 49 3 -17
+pic frame-47-1.png art/boss/glare.png 55 49 3 -17
+pic frame-47-2.png art/boss/glare.png 55 49 3 -17
+pic frame-47-3.png art/boss/glare.png 55 49 3 -17
+pic frame-48-0.png art/boss/shout.png 55 49 3 -17
+pic frame-48-1.png art/boss/shout.png 55 49 3 -17
+pic frame-48-2.png art/boss/shout.png 55 49 3 -17
+pic frame-48-3.png art/boss/shout.png 55 49 3 -17
+pic frame-49-0.png art/boss/pound-b.png 55 49 3 -17
+pic frame-49-1.png art/boss/pound-b.png 55 49 3 -17
+pic frame-49-2.png art/boss/pound-b.png 55 49 3 -17
+pic frame-49-3.png art/boss/pound-b.png 55 49 3 -17
+pic frame-50-0.png art/boss/idle.png 55 49 3 -17
+pic frame-50-1.png art/boss/idle.png 55 49 3 -17
+pic frame-50-2.png art/boss/idle.png 55 49 3 -17
+pic frame-50-3.png art/boss/idle.png 55 49 3 -17
+pic frame-51-0.png art/boss/shout.png 55 49 3 -17
+pic frame-51-1.png art/boss/shout.png 55 49 3 -17
+pic frame-51-2.png art/boss/shout.png 55 49 3 -17
+pic frame-51-3.png art/boss/shout.png 55 49 3 -17
+pic frame-52-0.png art/boss/pound-b.png 55 49 3 -17
+pic frame-52-1.png art/boss/pound-b.png 55 49 3 -17
+pic frame-52-2.png art/boss/pound-b.png 55 49 3 -17
+pic frame-52-3.png art/boss/pound-b.png 55 49 3 -17
+pic frame-53-0.png art/boss/reach-left.png 55 49 3 -17
+pic frame-53-1.png art/boss/reach-left.png 55 49 3 -17
+pic frame-53-2.png art/boss/reach-left.png 55 49 3 -17
+pic frame-53-3.png art/boss/reach-left.png 55 49 3 -17
+pic frame-66-0.png art/boss/fall.png 55 49 3 -17
+pic frame-66-1.png art/boss/fall.png 55 49 3 -17
+pic frame-66-2.png art/boss/fall.png 55 49 3 -17
+pic frame-66-3.png art/boss/fall.png 55 49 3 -17
+pic frame-67-0.png art/boss/crash.png 55 49 3 -17
+pic frame-67-1.png art/boss/crash.png 55 49 3 -17
+pic frame-67-2.png art/boss/crash.png 55 49 3 -17
+pic frame-67-3.png art/boss/crash.png 55 49 3 -17
+pic frame-68-0.png art/boss/crash.png 55 49 3 -17
+pic frame-68-1.png art/boss/crash.png 55 49 3 -17
+pic frame-68-2.png art/boss/crash.png 55 49 3 -17
+pic frame-68-3.png art/boss/crash.png 55 49 3 -17
 # --- boss: standing idle cycle (breathing, blinking, glaring, growling), every 4 s ---
-timed frame-41-0.png 0 50 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-41-0.png 50 56 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-41-0.png 56 100 art/boss/breathe.png 47 44 3 -12 every=240
-timed frame-41-0.png 100 140 art/boss/glare.png 47 44 3 -12 every=240
-timed frame-41-0.png 140 170 art/boss/growl.png 47 44 3 -12 every=240
-timed frame-41-0.png 170 176 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-41-0.png 176 240 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-41-1.png 0 50 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-41-1.png 50 56 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-41-1.png 56 100 art/boss/breathe.png 47 44 3 -12 every=240
-timed frame-41-1.png 100 140 art/boss/glare.png 47 44 3 -12 every=240
-timed frame-41-1.png 140 170 art/boss/growl.png 47 44 3 -12 every=240
-timed frame-41-1.png 170 176 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-41-1.png 176 240 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-41-2.png 0 50 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-41-2.png 50 56 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-41-2.png 56 100 art/boss/breathe.png 47 44 3 -12 every=240
-timed frame-41-2.png 100 140 art/boss/glare.png 47 44 3 -12 every=240
-timed frame-41-2.png 140 170 art/boss/growl.png 47 44 3 -12 every=240
-timed frame-41-2.png 170 176 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-41-2.png 176 240 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-41-3.png 0 50 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-41-3.png 50 56 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-41-3.png 56 100 art/boss/breathe.png 47 44 3 -12 every=240
-timed frame-41-3.png 100 140 art/boss/glare.png 47 44 3 -12 every=240
-timed frame-41-3.png 140 170 art/boss/growl.png 47 44 3 -12 every=240
-timed frame-41-3.png 170 176 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-41-3.png 176 240 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-50-0.png 0 50 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-50-0.png 50 56 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-50-0.png 56 100 art/boss/breathe.png 47 44 3 -12 every=240
-timed frame-50-0.png 100 140 art/boss/glare.png 47 44 3 -12 every=240
-timed frame-50-0.png 140 170 art/boss/growl.png 47 44 3 -12 every=240
-timed frame-50-0.png 170 176 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-50-0.png 176 240 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-50-1.png 0 50 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-50-1.png 50 56 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-50-1.png 56 100 art/boss/breathe.png 47 44 3 -12 every=240
-timed frame-50-1.png 100 140 art/boss/glare.png 47 44 3 -12 every=240
-timed frame-50-1.png 140 170 art/boss/growl.png 47 44 3 -12 every=240
-timed frame-50-1.png 170 176 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-50-1.png 176 240 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-50-2.png 0 50 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-50-2.png 50 56 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-50-2.png 56 100 art/boss/breathe.png 47 44 3 -12 every=240
-timed frame-50-2.png 100 140 art/boss/glare.png 47 44 3 -12 every=240
-timed frame-50-2.png 140 170 art/boss/growl.png 47 44 3 -12 every=240
-timed frame-50-2.png 170 176 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-50-2.png 176 240 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-50-3.png 0 50 art/boss/idle.png 47 44 3 -12 every=240
-timed frame-50-3.png 50 56 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-50-3.png 56 100 art/boss/breathe.png 47 44 3 -12 every=240
-timed frame-50-3.png 100 140 art/boss/glare.png 47 44 3 -12 every=240
-timed frame-50-3.png 140 170 art/boss/growl.png 47 44 3 -12 every=240
-timed frame-50-3.png 170 176 art/boss/blink.png 47 44 3 -12 every=240
-timed frame-50-3.png 176 240 art/boss/idle.png 47 44 3 -12 every=240
+timed frame-41-0.png 0 50 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-41-0.png 50 56 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-41-0.png 56 100 art/boss/breathe.png 55 49 3 -17 every=240
+timed frame-41-0.png 100 140 art/boss/glare.png 55 49 3 -17 every=240
+timed frame-41-0.png 140 170 art/boss/growl.png 55 49 3 -17 every=240
+timed frame-41-0.png 170 176 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-41-0.png 176 240 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-41-1.png 0 50 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-41-1.png 50 56 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-41-1.png 56 100 art/boss/breathe.png 55 49 3 -17 every=240
+timed frame-41-1.png 100 140 art/boss/glare.png 55 49 3 -17 every=240
+timed frame-41-1.png 140 170 art/boss/growl.png 55 49 3 -17 every=240
+timed frame-41-1.png 170 176 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-41-1.png 176 240 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-41-2.png 0 50 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-41-2.png 50 56 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-41-2.png 56 100 art/boss/breathe.png 55 49 3 -17 every=240
+timed frame-41-2.png 100 140 art/boss/glare.png 55 49 3 -17 every=240
+timed frame-41-2.png 140 170 art/boss/growl.png 55 49 3 -17 every=240
+timed frame-41-2.png 170 176 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-41-2.png 176 240 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-41-3.png 0 50 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-41-3.png 50 56 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-41-3.png 56 100 art/boss/breathe.png 55 49 3 -17 every=240
+timed frame-41-3.png 100 140 art/boss/glare.png 55 49 3 -17 every=240
+timed frame-41-3.png 140 170 art/boss/growl.png 55 49 3 -17 every=240
+timed frame-41-3.png 170 176 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-41-3.png 176 240 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-50-0.png 0 50 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-50-0.png 50 56 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-50-0.png 56 100 art/boss/breathe.png 55 49 3 -17 every=240
+timed frame-50-0.png 100 140 art/boss/glare.png 55 49 3 -17 every=240
+timed frame-50-0.png 140 170 art/boss/growl.png 55 49 3 -17 every=240
+timed frame-50-0.png 170 176 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-50-0.png 176 240 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-50-1.png 0 50 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-50-1.png 50 56 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-50-1.png 56 100 art/boss/breathe.png 55 49 3 -17 every=240
+timed frame-50-1.png 100 140 art/boss/glare.png 55 49 3 -17 every=240
+timed frame-50-1.png 140 170 art/boss/growl.png 55 49 3 -17 every=240
+timed frame-50-1.png 170 176 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-50-1.png 176 240 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-50-2.png 0 50 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-50-2.png 50 56 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-50-2.png 56 100 art/boss/breathe.png 55 49 3 -17 every=240
+timed frame-50-2.png 100 140 art/boss/glare.png 55 49 3 -17 every=240
+timed frame-50-2.png 140 170 art/boss/growl.png 55 49 3 -17 every=240
+timed frame-50-2.png 170 176 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-50-2.png 176 240 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-50-3.png 0 50 art/boss/idle.png 55 49 3 -17 every=240
+timed frame-50-3.png 50 56 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-50-3.png 56 100 art/boss/breathe.png 55 49 3 -17 every=240
+timed frame-50-3.png 100 140 art/boss/glare.png 55 49 3 -17 every=240
+timed frame-50-3.png 140 170 art/boss/growl.png 55 49 3 -17 every=240
+timed frame-50-3.png 170 176 art/boss/blink.png 55 49 3 -17 every=240
+timed frame-50-3.png 176 240 art/boss/idle.png 55 49 3 -17 every=240
 # --- boss: turning to the barrel stack: reach, then grab ---
-timed frame-42-0.png 0 12 art/boss/reach-left.png 47 44 3 -12
-timed frame-42-1.png 0 12 art/boss/reach-left.png 47 44 3 -12
-timed frame-42-2.png 0 12 art/boss/reach-left.png 47 44 3 -12
-timed frame-42-3.png 0 12 art/boss/reach-left.png 47 44 3 -12
+timed frame-42-0.png 0 12 art/boss/reach-left.png 55 49 3 -17
+timed frame-42-1.png 0 12 art/boss/reach-left.png 55 49 3 -17
+timed frame-42-2.png 0 12 art/boss/reach-left.png 55 49 3 -17
+timed frame-42-3.png 0 12 art/boss/reach-left.png 55 49 3 -17
 # --- boss: holding a barrel (the game holds its barrel at his belly ~16 frames): hold and a quick overhead wind-up hide the game's barrel, then release as it drops; recover; idle ---
-timed frame-43-0.png 0 10 art/boss/hold.png 47 44 3 -12 hide
-timed frame-43-0.png 10 16 art/boss/windup.png 47 44 3 -12 hide
-timed frame-43-0.png 16 30 art/boss/release.png 47 44 3 -12
-timed frame-43-0.png 30 44 art/boss/recover.png 47 44 3 -12
-timed frame-43-0.png 44 1000000 art/boss/idle.png 47 44 3 -12
-timed frame-43-1.png 0 10 art/boss/hold.png 47 44 3 -12 hide
-timed frame-43-1.png 10 16 art/boss/windup.png 47 44 3 -12 hide
-timed frame-43-1.png 16 30 art/boss/release.png 47 44 3 -12
-timed frame-43-1.png 30 44 art/boss/recover.png 47 44 3 -12
-timed frame-43-1.png 44 1000000 art/boss/idle.png 47 44 3 -12
-timed frame-43-2.png 0 10 art/boss/hold.png 47 44 3 -12 hide
-timed frame-43-2.png 10 16 art/boss/windup.png 47 44 3 -12 hide
-timed frame-43-2.png 16 30 art/boss/release.png 47 44 3 -12
-timed frame-43-2.png 30 44 art/boss/recover.png 47 44 3 -12
-timed frame-43-2.png 44 1000000 art/boss/idle.png 47 44 3 -12
-timed frame-43-3.png 0 10 art/boss/hold.png 47 44 3 -12 hide
-timed frame-43-3.png 10 16 art/boss/windup.png 47 44 3 -12 hide
-timed frame-43-3.png 16 30 art/boss/release.png 47 44 3 -12
-timed frame-43-3.png 30 44 art/boss/recover.png 47 44 3 -12
-timed frame-43-3.png 44 1000000 art/boss/idle.png 47 44 3 -12
+timed frame-43-0.png 0 10 art/boss/hold.png 55 49 3 -17 hide
+timed frame-43-0.png 10 16 art/boss/windup.png 55 49 3 -17 hide
+timed frame-43-0.png 16 30 art/boss/release.png 55 49 3 -17
+timed frame-43-0.png 30 44 art/boss/recover.png 55 49 3 -17
+timed frame-43-0.png 44 1000000 art/boss/idle.png 55 49 3 -17
+timed frame-43-1.png 0 10 art/boss/hold.png 55 49 3 -17 hide
+timed frame-43-1.png 10 16 art/boss/windup.png 55 49 3 -17 hide
+timed frame-43-1.png 16 30 art/boss/release.png 55 49 3 -17
+timed frame-43-1.png 30 44 art/boss/recover.png 55 49 3 -17
+timed frame-43-1.png 44 1000000 art/boss/idle.png 55 49 3 -17
+timed frame-43-2.png 0 10 art/boss/hold.png 55 49 3 -17 hide
+timed frame-43-2.png 10 16 art/boss/windup.png 55 49 3 -17 hide
+timed frame-43-2.png 16 30 art/boss/release.png 55 49 3 -17
+timed frame-43-2.png 30 44 art/boss/recover.png 55 49 3 -17
+timed frame-43-2.png 44 1000000 art/boss/idle.png 55 49 3 -17
+timed frame-43-3.png 0 10 art/boss/hold.png 55 49 3 -17 hide
+timed frame-43-3.png 10 16 art/boss/windup.png 55 49 3 -17 hide
+timed frame-43-3.png 16 30 art/boss/release.png 55 49 3 -17
+timed frame-43-3.png 30 44 art/boss/recover.png 55 49 3 -17
+timed frame-43-3.png 44 1000000 art/boss/idle.png 55 49 3 -17
 # --- boss: rolling a barrel right -> push, recover, then a tantrum loop while he waits ---
-timed frame-44-0.png 0 12 art/boss/push-right.png 47 44 3 -12
-timed frame-44-0.png 12 26 art/boss/recover.png 47 44 3 -12
-timed frame-44-0.png 0 20 art/boss/idle.png 47 44 3 -12 every=60 wait=26
-timed frame-44-0.png 20 40 art/boss/growl.png 47 44 3 -12 every=60 wait=26
-timed frame-44-0.png 40 60 art/boss/shout.png 47 44 3 -12 every=60 wait=26
-timed frame-44-1.png 0 12 art/boss/push-right.png 47 44 3 -12
-timed frame-44-1.png 12 26 art/boss/recover.png 47 44 3 -12
-timed frame-44-1.png 0 20 art/boss/idle.png 47 44 3 -12 every=60 wait=26
-timed frame-44-1.png 20 40 art/boss/growl.png 47 44 3 -12 every=60 wait=26
-timed frame-44-1.png 40 60 art/boss/shout.png 47 44 3 -12 every=60 wait=26
-timed frame-44-2.png 0 12 art/boss/push-right.png 47 44 3 -12
-timed frame-44-2.png 12 26 art/boss/recover.png 47 44 3 -12
-timed frame-44-2.png 0 20 art/boss/idle.png 47 44 3 -12 every=60 wait=26
-timed frame-44-2.png 20 40 art/boss/growl.png 47 44 3 -12 every=60 wait=26
-timed frame-44-2.png 40 60 art/boss/shout.png 47 44 3 -12 every=60 wait=26
-timed frame-44-3.png 0 12 art/boss/push-right.png 47 44 3 -12
-timed frame-44-3.png 12 26 art/boss/recover.png 47 44 3 -12
-timed frame-44-3.png 0 20 art/boss/idle.png 47 44 3 -12 every=60 wait=26
-timed frame-44-3.png 20 40 art/boss/growl.png 47 44 3 -12 every=60 wait=26
-timed frame-44-3.png 40 60 art/boss/shout.png 47 44 3 -12 every=60 wait=26
+timed frame-44-0.png 0 12 art/boss/push-right.png 55 49 3 -17
+timed frame-44-0.png 12 26 art/boss/recover.png 55 49 3 -17
+timed frame-44-0.png 0 20 art/boss/idle.png 55 49 3 -17 every=60 wait=26
+timed frame-44-0.png 20 40 art/boss/growl.png 55 49 3 -17 every=60 wait=26
+timed frame-44-0.png 40 60 art/boss/shout.png 55 49 3 -17 every=60 wait=26
+timed frame-44-1.png 0 12 art/boss/push-right.png 55 49 3 -17
+timed frame-44-1.png 12 26 art/boss/recover.png 55 49 3 -17
+timed frame-44-1.png 0 20 art/boss/idle.png 55 49 3 -17 every=60 wait=26
+timed frame-44-1.png 20 40 art/boss/growl.png 55 49 3 -17 every=60 wait=26
+timed frame-44-1.png 40 60 art/boss/shout.png 55 49 3 -17 every=60 wait=26
+timed frame-44-2.png 0 12 art/boss/push-right.png 55 49 3 -17
+timed frame-44-2.png 12 26 art/boss/recover.png 55 49 3 -17
+timed frame-44-2.png 0 20 art/boss/idle.png 55 49 3 -17 every=60 wait=26
+timed frame-44-2.png 20 40 art/boss/growl.png 55 49 3 -17 every=60 wait=26
+timed frame-44-2.png 40 60 art/boss/shout.png 55 49 3 -17 every=60 wait=26
+timed frame-44-3.png 0 12 art/boss/push-right.png 55 49 3 -17
+timed frame-44-3.png 12 26 art/boss/recover.png 55 49 3 -17
+timed frame-44-3.png 0 20 art/boss/idle.png 55 49 3 -17 every=60 wait=26
+timed frame-44-3.png 20 40 art/boss/growl.png 55 49 3 -17 every=60 wait=26
+timed frame-44-3.png 40 60 art/boss/shout.png 55 49 3 -17 every=60 wait=26
 # --- boss: chest-beat frames alternate fist cocked / both fists on the chest ---
-timed frame-46-0.png 0 8 art/boss/pound-a.png 47 44 3 -12 every=16
-timed frame-46-0.png 8 16 art/boss/pound-b.png 47 44 3 -12 every=16
-timed frame-46-1.png 0 8 art/boss/pound-a.png 47 44 3 -12 every=16
-timed frame-46-1.png 8 16 art/boss/pound-b.png 47 44 3 -12 every=16
-timed frame-46-2.png 0 8 art/boss/pound-a.png 47 44 3 -12 every=16
-timed frame-46-2.png 8 16 art/boss/pound-b.png 47 44 3 -12 every=16
-timed frame-46-3.png 0 8 art/boss/pound-a.png 47 44 3 -12 every=16
-timed frame-46-3.png 8 16 art/boss/pound-b.png 47 44 3 -12 every=16
-timed frame-49-0.png 0 8 art/boss/pound-b.png 47 44 3 -12 every=16
-timed frame-49-0.png 8 16 art/boss/pound-a.png 47 44 3 -12 every=16
-timed frame-49-1.png 0 8 art/boss/pound-b.png 47 44 3 -12 every=16
-timed frame-49-1.png 8 16 art/boss/pound-a.png 47 44 3 -12 every=16
-timed frame-49-2.png 0 8 art/boss/pound-b.png 47 44 3 -12 every=16
-timed frame-49-2.png 8 16 art/boss/pound-a.png 47 44 3 -12 every=16
-timed frame-49-3.png 0 8 art/boss/pound-b.png 47 44 3 -12 every=16
-timed frame-49-3.png 8 16 art/boss/pound-a.png 47 44 3 -12 every=16
-timed frame-52-0.png 0 8 art/boss/pound-b.png 47 44 3 -12 every=16
-timed frame-52-0.png 8 16 art/boss/pound-a.png 47 44 3 -12 every=16
-timed frame-52-1.png 0 8 art/boss/pound-b.png 47 44 3 -12 every=16
-timed frame-52-1.png 8 16 art/boss/pound-a.png 47 44 3 -12 every=16
-timed frame-52-2.png 0 8 art/boss/pound-b.png 47 44 3 -12 every=16
-timed frame-52-2.png 8 16 art/boss/pound-a.png 47 44 3 -12 every=16
-timed frame-52-3.png 0 8 art/boss/pound-b.png 47 44 3 -12 every=16
-timed frame-52-3.png 8 16 art/boss/pound-a.png 47 44 3 -12 every=16
+timed frame-46-0.png 0 8 art/boss/pound-a.png 55 49 3 -17 every=16
+timed frame-46-0.png 8 16 art/boss/pound-b.png 55 49 3 -17 every=16
+timed frame-46-1.png 0 8 art/boss/pound-a.png 55 49 3 -17 every=16
+timed frame-46-1.png 8 16 art/boss/pound-b.png 55 49 3 -17 every=16
+timed frame-46-2.png 0 8 art/boss/pound-a.png 55 49 3 -17 every=16
+timed frame-46-2.png 8 16 art/boss/pound-b.png 55 49 3 -17 every=16
+timed frame-46-3.png 0 8 art/boss/pound-a.png 55 49 3 -17 every=16
+timed frame-46-3.png 8 16 art/boss/pound-b.png 55 49 3 -17 every=16
+timed frame-49-0.png 0 8 art/boss/pound-b.png 55 49 3 -17 every=16
+timed frame-49-0.png 8 16 art/boss/pound-a.png 55 49 3 -17 every=16
+timed frame-49-1.png 0 8 art/boss/pound-b.png 55 49 3 -17 every=16
+timed frame-49-1.png 8 16 art/boss/pound-a.png 55 49 3 -17 every=16
+timed frame-49-2.png 0 8 art/boss/pound-b.png 55 49 3 -17 every=16
+timed frame-49-2.png 8 16 art/boss/pound-a.png 55 49 3 -17 every=16
+timed frame-49-3.png 0 8 art/boss/pound-b.png 55 49 3 -17 every=16
+timed frame-49-3.png 8 16 art/boss/pound-a.png 55 49 3 -17 every=16
+timed frame-52-0.png 0 8 art/boss/pound-b.png 55 49 3 -17 every=16
+timed frame-52-0.png 8 16 art/boss/pound-a.png 55 49 3 -17 every=16
+timed frame-52-1.png 0 8 art/boss/pound-b.png 55 49 3 -17 every=16
+timed frame-52-1.png 8 16 art/boss/pound-a.png 55 49 3 -17 every=16
+timed frame-52-2.png 0 8 art/boss/pound-b.png 55 49 3 -17 every=16
+timed frame-52-2.png 8 16 art/boss/pound-a.png 55 49 3 -17 every=16
+timed frame-52-3.png 0 8 art/boss/pound-b.png 55 49 3 -17 every=16
+timed frame-52-3.png 8 16 art/boss/pound-a.png 55 49 3 -17 every=16
 # --- boss: shouts at the hero when the hero stands level with him ---
-near art/boss/shout.png 47 44 3 -12
+near art/boss/shout.png 55 49 3 -17
 near_when frame-41-0.png frame-41-1.png frame-41-2.png frame-41-3.png frame-45-0.png frame-45-1.png frame-45-2.png frame-45-3.png frame-46-0.png frame-46-1.png frame-46-2.png frame-46-3.png frame-47-0.png frame-47-1.png frame-47-2.png frame-47-3.png frame-48-0.png frame-48-1.png frame-48-2.png frame-48-3.png frame-49-0.png frame-49-1.png frame-49-2.png frame-49-3.png frame-50-0.png frame-50-1.png frame-50-2.png frame-50-3.png frame-52-0.png frame-52-1.png frame-52-2.png frame-52-3.png frame-53-0.png frame-53-1.png frame-53-2.png frame-53-3.png
 near_other frame-82-0.png frame-82-1.png frame-82-2.png frame-82-3.png frame-83-0.png frame-83-1.png frame-83-2.png frame-83-3.png frame-84-0.png frame-84-1.png frame-84-2.png frame-84-3.png frame-85-0.png frame-85-1.png frame-85-2.png frame-85-3.png frame-86-0.png frame-86-1.png frame-86-2.png frame-86-3.png frame-87-0.png frame-87-1.png frame-87-2.png frame-87-3.png frame-88-0.png frame-88-1.png frame-88-2.png frame-88-3.png frame-89-0.png frame-89-1.png frame-89-2.png frame-89-3.png frame-90-0.png frame-90-1.png frame-90-2.png frame-90-3.png frame-91-0.png frame-91-1.png frame-91-2.png frame-91-3.png frame-92-0.png frame-92-1.png frame-92-2.png frame-92-3.png frame-93-0.png frame-93-1.png frame-93-2.png frame-93-3.png frame-94-0.png frame-94-1.png frame-94-2.png frame-94-3.png frame-95-0.png frame-95-1.png frame-95-2.png frame-95-3.png frame-96-0.png frame-96-1.png frame-96-2.png frame-96-3.png frame-97-0.png frame-97-1.png frame-97-2.png frame-97-3.png frame-98-0.png frame-98-1.png frame-98-2.png frame-98-3.png frame-99-0.png frame-99-1.png frame-99-2.png frame-99-3.png frame-100-0.png frame-100-1.png frame-100-2.png frame-100-3.png frame-101-0.png frame-101-1.png frame-101-2.png frame-101-3.png frame-102-0.png frame-102-1.png frame-102-2.png frame-102-3.png
 # --- barrels: not drawn while the boss's hold / wind-up pose has one in his hands ---
@@ -351,18 +351,18 @@ pic frame-89-0.png art/hero/climb-a.png 23 23 -4 -7
 pic frame-89-1.png art/hero/climb-a.png 23 23 -4 -7
 pic frame-89-2.png art/hero/climb-a.png 23 23 -4 -7
 pic frame-89-3.png art/hero/climb-a.png 23 23 -4 -7
-pic frame-90-0.png art/hero/climb-b.png 23 23 -4 -7
-pic frame-90-1.png art/hero/climb-b.png 23 23 -4 -7
-pic frame-90-2.png art/hero/climb-b.png 23 23 -4 -7
-pic frame-90-3.png art/hero/climb-b.png 23 23 -4 -7
-pic frame-91-0.png art/hero/climb-b.png 23 23 -4 -7
-pic frame-91-1.png art/hero/climb-b.png 23 23 -4 -7
-pic frame-91-2.png art/hero/climb-b.png 23 23 -4 -7
-pic frame-91-3.png art/hero/climb-b.png 23 23 -4 -7
-pic frame-92-0.png art/hero/climb-a.png 23 23 -4 -7
-pic frame-92-1.png art/hero/climb-a.png 23 23 -4 -7
-pic frame-92-2.png art/hero/climb-a.png 23 23 -4 -7
-pic frame-92-3.png art/hero/climb-a.png 23 23 -4 -7
+pic frame-90-0.png art/hero/ledge-bent.png 23 23 -4 -7
+pic frame-90-1.png art/hero/ledge-bent.png 23 23 -4 -7
+pic frame-90-2.png art/hero/ledge-bent.png 23 23 -4 -7
+pic frame-90-3.png art/hero/ledge-bent.png 23 23 -4 -7
+pic frame-91-0.png art/hero/ledge-lying.png 23 23 -4 -7
+pic frame-91-1.png art/hero/ledge-lying.png 23 23 -4 -7
+pic frame-91-2.png art/hero/ledge-lying.png 23 23 -4 -7
+pic frame-91-3.png art/hero/ledge-lying.png 23 23 -4 -7
+pic frame-92-0.png art/hero/top-back.png 23 23 -4 -7
+pic frame-92-1.png art/hero/top-back.png 23 23 -4 -7
+pic frame-92-2.png art/hero/top-back.png 23 23 -4 -7
+pic frame-92-3.png art/hero/top-back.png 23 23 -4 -7
 pic frame-93-0.png art/hero/walk-a.png 23 23 -4 -7
 pic frame-93-1.png art/hero/walk-a.png 23 23 -4 -7
 pic frame-93-2.png art/hero/walk-a.png 23 23 -4 -7
@@ -379,26 +379,26 @@ pic frame-96-0.png art/hero/jump.png 23 23 -4 -7
 pic frame-96-1.png art/hero/jump.png 23 23 -4 -7
 pic frame-96-2.png art/hero/jump.png 23 23 -4 -7
 pic frame-96-3.png art/hero/jump.png 23 23 -4 -7
-pic frame-97-0.png art/hero/tool-up.png 23 23 -4 -7
-pic frame-97-1.png art/hero/tool-up.png 23 23 -4 -7
-pic frame-97-2.png art/hero/tool-up.png 23 23 -4 -7
-pic frame-97-3.png art/hero/tool-up.png 23 23 -4 -7
+pic frame-97-0.png art/hero/tool-up-stride.png 23 23 -4 -7
+pic frame-97-1.png art/hero/tool-up-stride.png 23 23 -4 -7
+pic frame-97-2.png art/hero/tool-up-stride.png 23 23 -4 -7
+pic frame-97-3.png art/hero/tool-up-stride.png 23 23 -4 -7
 pic frame-98-0.png art/hero/tool-up.png 23 23 -4 -7
 pic frame-98-1.png art/hero/tool-up.png 23 23 -4 -7
 pic frame-98-2.png art/hero/tool-up.png 23 23 -4 -7
 pic frame-98-3.png art/hero/tool-up.png 23 23 -4 -7
-pic frame-99-0.png art/hero/tool-up.png 23 23 -4 -7
-pic frame-99-1.png art/hero/tool-up.png 23 23 -4 -7
-pic frame-99-2.png art/hero/tool-up.png 23 23 -4 -7
-pic frame-99-3.png art/hero/tool-up.png 23 23 -4 -7
-pic frame-100-0.png art/hero/tool-down.png 23 23 -4 -7
-pic frame-100-1.png art/hero/tool-down.png 23 23 -4 -7
-pic frame-100-2.png art/hero/tool-down.png 23 23 -4 -7
-pic frame-100-3.png art/hero/tool-down.png 23 23 -4 -7
-pic frame-101-0.png art/hero/tool-down.png 23 23 -4 -7
-pic frame-101-1.png art/hero/tool-down.png 23 23 -4 -7
-pic frame-101-2.png art/hero/tool-down.png 23 23 -4 -7
-pic frame-101-3.png art/hero/tool-down.png 23 23 -4 -7
+pic frame-99-0.png art/hero/tool-up-step.png 23 23 -4 -7
+pic frame-99-1.png art/hero/tool-up-step.png 23 23 -4 -7
+pic frame-99-2.png art/hero/tool-up-step.png 23 23 -4 -7
+pic frame-99-3.png art/hero/tool-up-step.png 23 23 -4 -7
+pic frame-100-0.png art/hero/tool-down-stride.png 23 23 -4 -7
+pic frame-100-1.png art/hero/tool-down-stride.png 23 23 -4 -7
+pic frame-100-2.png art/hero/tool-down-stride.png 23 23 -4 -7
+pic frame-100-3.png art/hero/tool-down-stride.png 23 23 -4 -7
+pic frame-101-0.png art/hero/tool-down-stand.png 23 23 -4 -7
+pic frame-101-1.png art/hero/tool-down-stand.png 23 23 -4 -7
+pic frame-101-2.png art/hero/tool-down-stand.png 23 23 -4 -7
+pic frame-101-3.png art/hero/tool-down-stand.png 23 23 -4 -7
 pic frame-102-0.png art/hero/tool-down.png 23 23 -4 -7
 pic frame-102-1.png art/hero/tool-down.png 23 23 -4 -7
 pic frame-102-2.png art/hero/tool-down.png 23 23 -4 -7
