@@ -323,7 +323,7 @@ near_when frame-41-0.png frame-41-1.png frame-41-2.png frame-41-3.png frame-45-0
 near_other frame-82-0.png frame-82-1.png frame-82-2.png frame-82-3.png frame-83-0.png frame-83-1.png frame-83-2.png frame-83-3.png frame-84-0.png frame-84-1.png frame-84-2.png frame-84-3.png frame-85-0.png frame-85-1.png frame-85-2.png frame-85-3.png frame-86-0.png frame-86-1.png frame-86-2.png frame-86-3.png frame-87-0.png frame-87-1.png frame-87-2.png frame-87-3.png frame-88-0.png frame-88-1.png frame-88-2.png frame-88-3.png frame-89-0.png frame-89-1.png frame-89-2.png frame-89-3.png frame-90-0.png frame-90-1.png frame-90-2.png frame-90-3.png frame-91-0.png frame-91-1.png frame-91-2.png frame-91-3.png frame-92-0.png frame-92-1.png frame-92-2.png frame-92-3.png frame-93-0.png frame-93-1.png frame-93-2.png frame-93-3.png frame-94-0.png frame-94-1.png frame-94-2.png frame-94-3.png frame-95-0.png frame-95-1.png frame-95-2.png frame-95-3.png frame-96-0.png frame-96-1.png frame-96-2.png frame-96-3.png frame-97-0.png frame-97-1.png frame-97-2.png frame-97-3.png frame-98-0.png frame-98-1.png frame-98-2.png frame-98-3.png frame-99-0.png frame-99-1.png frame-99-2.png frame-99-3.png frame-100-0.png frame-100-1.png frame-100-2.png frame-100-3.png frame-101-0.png frame-101-1.png frame-101-2.png frame-101-3.png frame-102-0.png frame-102-1.png frame-102-2.png frame-102-3.png
 # --- barrels: not drawn while the boss's hold / wind-up pose has one in his hands ---
 held frame-0-0.png frame-0-1.png frame-0-2.png frame-0-3.png frame-1-0.png frame-1-1.png frame-1-2.png frame-1-3.png frame-2-0.png frame-2-1.png frame-2-2.png frame-2-3.png frame-3-0.png frame-3-1.png frame-3-2.png frame-3-3.png frame-4-0.png frame-4-1.png frame-4-2.png frame-4-3.png frame-5-0.png frame-5-1.png frame-5-2.png frame-5-3.png frame-6-0.png frame-6-1.png frame-6-2.png frame-6-3.png frame-7-0.png frame-7-1.png frame-7-2.png frame-7-3.png frame-8-0.png frame-8-1.png frame-8-2.png frame-8-3.png frame-9-0.png frame-9-1.png frame-9-2.png frame-9-3.png
-# --- hero: original zookeeper, feet on the slot's bottom edge (hit box unchanged) ---
+# --- hero: feet on the slot's bottom edge (hit box unchanged) ---
 pic frame-21-0.png art/hero/stand.png 23 23 -4 -7
 pic frame-21-1.png art/hero/stand.png 23 23 -4 -7
 pic frame-21-2.png art/hero/stand.png 23 23 -4 -7
@@ -380,10 +380,10 @@ pic frame-94-0.png art/hero/walk-b.png 23 23 -4 -7
 pic frame-94-1.png art/hero/walk-b.png 23 23 -4 -7
 pic frame-94-2.png art/hero/walk-b.png 23 23 -4 -7
 pic frame-94-3.png art/hero/walk-b.png 23 23 -4 -7
-pic frame-95-0.png art/hero/stand.png 23 23 -4 -7
-pic frame-95-1.png art/hero/stand.png 23 23 -4 -7
-pic frame-95-2.png art/hero/stand.png 23 23 -4 -7
-pic frame-95-3.png art/hero/stand.png 23 23 -4 -7
+pic frame-95-0.png art/hero/jump.png 23 23 -4 -7
+pic frame-95-1.png art/hero/jump.png 23 23 -4 -7
+pic frame-95-2.png art/hero/jump.png 23 23 -4 -7
+pic frame-95-3.png art/hero/jump.png 23 23 -4 -7
 pic frame-96-0.png art/hero/jump.png 23 23 -4 -7
 pic frame-96-1.png art/hero/jump.png 23 23 -4 -7
 pic frame-96-2.png art/hero/jump.png 23 23 -4 -7
@@ -622,15 +622,15 @@ pic frame-69-1.png art/props/ladder-piece.png 10 16 3 0
 pic frame-69-2.png art/props/ladder-piece.png 10 16 3 0
 pic frame-69-3.png art/props/ladder-piece.png 10 16 3 0
 pic frame-70-0.png art/props/drum-flames-low.png 22 10 -2 -2
-pic frame-70-1.png art/props/drum-flames-low.png 22 10 -2 -2
+pic frame-70-1.png art/props/hopper-flames-low.png 22 12 -2 -25
 pic frame-70-2.png art/props/drum-flames-low.png 22 10 -2 -2
 pic frame-70-3.png art/props/drum-flames-low.png 22 10 -2 -2
 pic frame-71-0.png art/props/drum-flames-left.png 22 16 -2 -8
-pic frame-71-1.png art/props/drum-flames-left.png 22 16 -2 -8
+pic frame-71-1.png art/props/hopper-flames-left.png 22 24 -2 -25
 pic frame-71-2.png art/props/drum-flames-left.png 22 16 -2 -8
 pic frame-71-3.png art/props/drum-flames-left.png 22 16 -2 -8
 pic frame-72-0.png art/props/drum-flames-right.png 22 16 -2 -8
-pic frame-72-1.png art/props/drum-flames-right.png 22 16 -2 -8
+pic frame-72-1.png art/props/hopper-flames-right.png 22 24 -2 -25
 pic frame-72-2.png art/props/drum-flames-right.png 22 16 -2 -8
 pic frame-72-3.png art/props/drum-flames-right.png 22 16 -2 -8
 pic frame-75-0.png art/props/blank.png 1 1 0 0
@@ -828,7 +828,7 @@ floor r>g+50 b>g+0
 ladder g>r+40 b>r+40
 snap_drum 32 48 200 226 195
 skip_ladder 28 60 180
-put pile 10 30 23.5 34
+put pile 16 30 23.5 34
 put drum 33.5 193 14 23
 level level-m50.png
 lit 60
