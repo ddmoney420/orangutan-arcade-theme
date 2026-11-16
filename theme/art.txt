@@ -2,14 +2,14 @@ gp-art 1
 scale 6
 limit off
 # --- Señorita: seated on the girder (hips on the platform top), idle cycle every 8 s ---
-pic frame-73-0.png art/senorita/idle.png 24 39 0 -2
-pic frame-73-1.png art/senorita/idle.png 24 39 0 -2
-pic frame-73-2.png art/senorita/idle.png 24 39 0 -2
-pic frame-73-3.png art/senorita/idle.png 24 39 0 -2
-pic frame-74-0.png art/senorita/idle.png 24 39 0 -2
-pic frame-74-1.png art/senorita/idle.png 24 39 0 -2
-pic frame-74-2.png art/senorita/idle.png 24 39 0 -2
-pic frame-74-3.png art/senorita/idle.png 24 39 0 -2
+pic frame-73-0.png art/senorita/idle.png 25 39 0 -2
+pic frame-73-1.png art/senorita/idle.png 25 39 0 -2
+pic frame-73-2.png art/senorita/idle.png 25 39 0 -2
+pic frame-73-3.png art/senorita/idle.png 25 39 0 -2
+pic frame-74-0.png art/senorita/idle.png 25 39 0 -2
+pic frame-74-1.png art/senorita/idle.png 25 39 0 -2
+pic frame-74-2.png art/senorita/idle.png 25 39 0 -2
+pic frame-74-3.png art/senorita/idle.png 25 39 0 -2
 # --- Señorita: excited when the hero saves her (100m ending) ---
 timed frame-74-0.png 0 30 art/senorita/overjoyed.png 31 37 -4 -3 every=60 wait=280
 timed frame-74-0.png 30 60 art/senorita/excited.png 31 37 -4 -3 every=60 wait=280
@@ -19,110 +19,110 @@ timed frame-74-2.png 0 30 art/senorita/overjoyed.png 31 37 -4 -3 every=60 wait=2
 timed frame-74-2.png 30 60 art/senorita/excited.png 31 37 -4 -3 every=60 wait=280
 timed frame-74-3.png 0 30 art/senorita/overjoyed.png 31 37 -4 -3 every=60 wait=280
 timed frame-74-3.png 30 60 art/senorita/excited.png 31 37 -4 -3 every=60 wait=280
-timed frame-73-0.png 50 56 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-73-0.png 100 130 art/senorita/breathe.png 24 39 0 -2 every=480
-timed frame-73-0.png 150 200 art/senorita/side-eye.png 24 39 0 -2 every=480
-timed frame-73-0.png 200 235 art/senorita/eye-roll.png 24 39 0 -2 every=480
-timed frame-73-0.png 235 280 art/senorita/sigh.png 24 39 0 -2 every=480
-timed frame-73-0.png 280 340 art/senorita/bored.png 24 39 0 -2 every=480
-timed frame-73-0.png 340 346 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-73-0.png 346 386 art/senorita/hat-adjust.png 24 39 0 -2 every=480
-timed frame-73-0.png 386 394 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-73-0.png 402 410 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-73-0.png 418 426 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-73-0.png 426 456 art/senorita/leg-shift.png 24 39 0 -2 every=480
-timed frame-73-0.png 456 480 art/senorita/look-left.png 24 39 0 -2 every=480
-timed frame-73-1.png 50 56 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-73-1.png 100 130 art/senorita/breathe.png 24 39 0 -2 every=480
-timed frame-73-1.png 150 200 art/senorita/side-eye.png 24 39 0 -2 every=480
-timed frame-73-1.png 200 235 art/senorita/eye-roll.png 24 39 0 -2 every=480
-timed frame-73-1.png 235 280 art/senorita/sigh.png 24 39 0 -2 every=480
-timed frame-73-1.png 280 340 art/senorita/bored.png 24 39 0 -2 every=480
-timed frame-73-1.png 340 346 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-73-1.png 346 386 art/senorita/hat-adjust.png 24 39 0 -2 every=480
-timed frame-73-1.png 386 394 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-73-1.png 402 410 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-73-1.png 418 426 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-73-1.png 426 456 art/senorita/leg-shift.png 24 39 0 -2 every=480
-timed frame-73-1.png 456 480 art/senorita/look-left.png 24 39 0 -2 every=480
-timed frame-73-2.png 50 56 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-73-2.png 100 130 art/senorita/breathe.png 24 39 0 -2 every=480
-timed frame-73-2.png 150 200 art/senorita/side-eye.png 24 39 0 -2 every=480
-timed frame-73-2.png 200 235 art/senorita/eye-roll.png 24 39 0 -2 every=480
-timed frame-73-2.png 235 280 art/senorita/sigh.png 24 39 0 -2 every=480
-timed frame-73-2.png 280 340 art/senorita/bored.png 24 39 0 -2 every=480
-timed frame-73-2.png 340 346 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-73-2.png 346 386 art/senorita/hat-adjust.png 24 39 0 -2 every=480
-timed frame-73-2.png 386 394 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-73-2.png 402 410 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-73-2.png 418 426 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-73-2.png 426 456 art/senorita/leg-shift.png 24 39 0 -2 every=480
-timed frame-73-2.png 456 480 art/senorita/look-left.png 24 39 0 -2 every=480
-timed frame-73-3.png 50 56 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-73-3.png 100 130 art/senorita/breathe.png 24 39 0 -2 every=480
-timed frame-73-3.png 150 200 art/senorita/side-eye.png 24 39 0 -2 every=480
-timed frame-73-3.png 200 235 art/senorita/eye-roll.png 24 39 0 -2 every=480
-timed frame-73-3.png 235 280 art/senorita/sigh.png 24 39 0 -2 every=480
-timed frame-73-3.png 280 340 art/senorita/bored.png 24 39 0 -2 every=480
-timed frame-73-3.png 340 346 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-73-3.png 346 386 art/senorita/hat-adjust.png 24 39 0 -2 every=480
-timed frame-73-3.png 386 394 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-73-3.png 402 410 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-73-3.png 418 426 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-73-3.png 426 456 art/senorita/leg-shift.png 24 39 0 -2 every=480
-timed frame-73-3.png 456 480 art/senorita/look-left.png 24 39 0 -2 every=480
-timed frame-74-0.png 50 56 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-74-0.png 100 130 art/senorita/breathe.png 24 39 0 -2 every=480
-timed frame-74-0.png 150 200 art/senorita/side-eye.png 24 39 0 -2 every=480
-timed frame-74-0.png 200 235 art/senorita/eye-roll.png 24 39 0 -2 every=480
-timed frame-74-0.png 235 280 art/senorita/sigh.png 24 39 0 -2 every=480
-timed frame-74-0.png 280 340 art/senorita/bored.png 24 39 0 -2 every=480
-timed frame-74-0.png 340 346 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-74-0.png 346 386 art/senorita/hat-adjust.png 24 39 0 -2 every=480
-timed frame-74-0.png 386 394 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-74-0.png 402 410 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-74-0.png 418 426 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-74-0.png 426 456 art/senorita/leg-shift.png 24 39 0 -2 every=480
-timed frame-74-0.png 456 480 art/senorita/look-left.png 24 39 0 -2 every=480
-timed frame-74-1.png 50 56 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-74-1.png 100 130 art/senorita/breathe.png 24 39 0 -2 every=480
-timed frame-74-1.png 150 200 art/senorita/side-eye.png 24 39 0 -2 every=480
-timed frame-74-1.png 200 235 art/senorita/eye-roll.png 24 39 0 -2 every=480
-timed frame-74-1.png 235 280 art/senorita/sigh.png 24 39 0 -2 every=480
-timed frame-74-1.png 280 340 art/senorita/bored.png 24 39 0 -2 every=480
-timed frame-74-1.png 340 346 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-74-1.png 346 386 art/senorita/hat-adjust.png 24 39 0 -2 every=480
-timed frame-74-1.png 386 394 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-74-1.png 402 410 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-74-1.png 418 426 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-74-1.png 426 456 art/senorita/leg-shift.png 24 39 0 -2 every=480
-timed frame-74-1.png 456 480 art/senorita/look-left.png 24 39 0 -2 every=480
-timed frame-74-2.png 50 56 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-74-2.png 100 130 art/senorita/breathe.png 24 39 0 -2 every=480
-timed frame-74-2.png 150 200 art/senorita/side-eye.png 24 39 0 -2 every=480
-timed frame-74-2.png 200 235 art/senorita/eye-roll.png 24 39 0 -2 every=480
-timed frame-74-2.png 235 280 art/senorita/sigh.png 24 39 0 -2 every=480
-timed frame-74-2.png 280 340 art/senorita/bored.png 24 39 0 -2 every=480
-timed frame-74-2.png 340 346 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-74-2.png 346 386 art/senorita/hat-adjust.png 24 39 0 -2 every=480
-timed frame-74-2.png 386 394 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-74-2.png 402 410 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-74-2.png 418 426 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-74-2.png 426 456 art/senorita/leg-shift.png 24 39 0 -2 every=480
-timed frame-74-2.png 456 480 art/senorita/look-left.png 24 39 0 -2 every=480
-timed frame-74-3.png 50 56 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-74-3.png 100 130 art/senorita/breathe.png 24 39 0 -2 every=480
-timed frame-74-3.png 150 200 art/senorita/side-eye.png 24 39 0 -2 every=480
-timed frame-74-3.png 200 235 art/senorita/eye-roll.png 24 39 0 -2 every=480
-timed frame-74-3.png 235 280 art/senorita/sigh.png 24 39 0 -2 every=480
-timed frame-74-3.png 280 340 art/senorita/bored.png 24 39 0 -2 every=480
-timed frame-74-3.png 340 346 art/senorita/blink.png 24 39 0 -2 every=480
-timed frame-74-3.png 346 386 art/senorita/hat-adjust.png 24 39 0 -2 every=480
-timed frame-74-3.png 386 394 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-74-3.png 402 410 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-74-3.png 418 426 art/senorita/heel-tap.png 24 39 0 -2 every=480
-timed frame-74-3.png 426 456 art/senorita/leg-shift.png 24 39 0 -2 every=480
-timed frame-74-3.png 456 480 art/senorita/look-left.png 24 39 0 -2 every=480
+timed frame-73-0.png 50 56 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-73-0.png 100 130 art/senorita/breathe.png 25 39 0 -2 every=480
+timed frame-73-0.png 150 200 art/senorita/side-eye.png 25 39 0 -2 every=480
+timed frame-73-0.png 200 235 art/senorita/eye-roll.png 25 39 0 -2 every=480
+timed frame-73-0.png 235 280 art/senorita/sigh.png 25 39 0 -2 every=480
+timed frame-73-0.png 280 340 art/senorita/bored.png 25 39 0 -2 every=480
+timed frame-73-0.png 340 346 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-73-0.png 346 386 art/senorita/hat-adjust.png 25 39 0 -2 every=480
+timed frame-73-0.png 386 394 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-73-0.png 402 410 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-73-0.png 418 426 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-73-0.png 426 456 art/senorita/leg-shift.png 25 39 0 -2 every=480
+timed frame-73-0.png 456 480 art/senorita/look-left.png 25 39 0 -2 every=480
+timed frame-73-1.png 50 56 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-73-1.png 100 130 art/senorita/breathe.png 25 39 0 -2 every=480
+timed frame-73-1.png 150 200 art/senorita/side-eye.png 25 39 0 -2 every=480
+timed frame-73-1.png 200 235 art/senorita/eye-roll.png 25 39 0 -2 every=480
+timed frame-73-1.png 235 280 art/senorita/sigh.png 25 39 0 -2 every=480
+timed frame-73-1.png 280 340 art/senorita/bored.png 25 39 0 -2 every=480
+timed frame-73-1.png 340 346 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-73-1.png 346 386 art/senorita/hat-adjust.png 25 39 0 -2 every=480
+timed frame-73-1.png 386 394 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-73-1.png 402 410 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-73-1.png 418 426 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-73-1.png 426 456 art/senorita/leg-shift.png 25 39 0 -2 every=480
+timed frame-73-1.png 456 480 art/senorita/look-left.png 25 39 0 -2 every=480
+timed frame-73-2.png 50 56 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-73-2.png 100 130 art/senorita/breathe.png 25 39 0 -2 every=480
+timed frame-73-2.png 150 200 art/senorita/side-eye.png 25 39 0 -2 every=480
+timed frame-73-2.png 200 235 art/senorita/eye-roll.png 25 39 0 -2 every=480
+timed frame-73-2.png 235 280 art/senorita/sigh.png 25 39 0 -2 every=480
+timed frame-73-2.png 280 340 art/senorita/bored.png 25 39 0 -2 every=480
+timed frame-73-2.png 340 346 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-73-2.png 346 386 art/senorita/hat-adjust.png 25 39 0 -2 every=480
+timed frame-73-2.png 386 394 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-73-2.png 402 410 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-73-2.png 418 426 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-73-2.png 426 456 art/senorita/leg-shift.png 25 39 0 -2 every=480
+timed frame-73-2.png 456 480 art/senorita/look-left.png 25 39 0 -2 every=480
+timed frame-73-3.png 50 56 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-73-3.png 100 130 art/senorita/breathe.png 25 39 0 -2 every=480
+timed frame-73-3.png 150 200 art/senorita/side-eye.png 25 39 0 -2 every=480
+timed frame-73-3.png 200 235 art/senorita/eye-roll.png 25 39 0 -2 every=480
+timed frame-73-3.png 235 280 art/senorita/sigh.png 25 39 0 -2 every=480
+timed frame-73-3.png 280 340 art/senorita/bored.png 25 39 0 -2 every=480
+timed frame-73-3.png 340 346 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-73-3.png 346 386 art/senorita/hat-adjust.png 25 39 0 -2 every=480
+timed frame-73-3.png 386 394 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-73-3.png 402 410 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-73-3.png 418 426 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-73-3.png 426 456 art/senorita/leg-shift.png 25 39 0 -2 every=480
+timed frame-73-3.png 456 480 art/senorita/look-left.png 25 39 0 -2 every=480
+timed frame-74-0.png 50 56 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-74-0.png 100 130 art/senorita/breathe.png 25 39 0 -2 every=480
+timed frame-74-0.png 150 200 art/senorita/side-eye.png 25 39 0 -2 every=480
+timed frame-74-0.png 200 235 art/senorita/eye-roll.png 25 39 0 -2 every=480
+timed frame-74-0.png 235 280 art/senorita/sigh.png 25 39 0 -2 every=480
+timed frame-74-0.png 280 340 art/senorita/bored.png 25 39 0 -2 every=480
+timed frame-74-0.png 340 346 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-74-0.png 346 386 art/senorita/hat-adjust.png 25 39 0 -2 every=480
+timed frame-74-0.png 386 394 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-74-0.png 402 410 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-74-0.png 418 426 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-74-0.png 426 456 art/senorita/leg-shift.png 25 39 0 -2 every=480
+timed frame-74-0.png 456 480 art/senorita/look-left.png 25 39 0 -2 every=480
+timed frame-74-1.png 50 56 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-74-1.png 100 130 art/senorita/breathe.png 25 39 0 -2 every=480
+timed frame-74-1.png 150 200 art/senorita/side-eye.png 25 39 0 -2 every=480
+timed frame-74-1.png 200 235 art/senorita/eye-roll.png 25 39 0 -2 every=480
+timed frame-74-1.png 235 280 art/senorita/sigh.png 25 39 0 -2 every=480
+timed frame-74-1.png 280 340 art/senorita/bored.png 25 39 0 -2 every=480
+timed frame-74-1.png 340 346 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-74-1.png 346 386 art/senorita/hat-adjust.png 25 39 0 -2 every=480
+timed frame-74-1.png 386 394 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-74-1.png 402 410 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-74-1.png 418 426 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-74-1.png 426 456 art/senorita/leg-shift.png 25 39 0 -2 every=480
+timed frame-74-1.png 456 480 art/senorita/look-left.png 25 39 0 -2 every=480
+timed frame-74-2.png 50 56 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-74-2.png 100 130 art/senorita/breathe.png 25 39 0 -2 every=480
+timed frame-74-2.png 150 200 art/senorita/side-eye.png 25 39 0 -2 every=480
+timed frame-74-2.png 200 235 art/senorita/eye-roll.png 25 39 0 -2 every=480
+timed frame-74-2.png 235 280 art/senorita/sigh.png 25 39 0 -2 every=480
+timed frame-74-2.png 280 340 art/senorita/bored.png 25 39 0 -2 every=480
+timed frame-74-2.png 340 346 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-74-2.png 346 386 art/senorita/hat-adjust.png 25 39 0 -2 every=480
+timed frame-74-2.png 386 394 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-74-2.png 402 410 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-74-2.png 418 426 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-74-2.png 426 456 art/senorita/leg-shift.png 25 39 0 -2 every=480
+timed frame-74-2.png 456 480 art/senorita/look-left.png 25 39 0 -2 every=480
+timed frame-74-3.png 50 56 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-74-3.png 100 130 art/senorita/breathe.png 25 39 0 -2 every=480
+timed frame-74-3.png 150 200 art/senorita/side-eye.png 25 39 0 -2 every=480
+timed frame-74-3.png 200 235 art/senorita/eye-roll.png 25 39 0 -2 every=480
+timed frame-74-3.png 235 280 art/senorita/sigh.png 25 39 0 -2 every=480
+timed frame-74-3.png 280 340 art/senorita/bored.png 25 39 0 -2 every=480
+timed frame-74-3.png 340 346 art/senorita/blink.png 25 39 0 -2 every=480
+timed frame-74-3.png 346 386 art/senorita/hat-adjust.png 25 39 0 -2 every=480
+timed frame-74-3.png 386 394 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-74-3.png 402 410 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-74-3.png 418 426 art/senorita/heel-tap.png 25 39 0 -2 every=480
+timed frame-74-3.png 426 456 art/senorita/leg-shift.png 25 39 0 -2 every=480
+timed frame-74-3.png 456 480 art/senorita/look-left.png 25 39 0 -2 every=480
 # --- boss: base pose per build picture ---
 pic frame-41-0.png art/boss/idle.png 44 32 7 0
 pic frame-41-1.png art/boss/idle.png 44 32 7 0
@@ -919,13 +919,13 @@ pic frame-108-3.png art/lettering/points-800.png 16 8 0 0
 stage 6 16 8 24 2 2 6
 stage_piece plank art/pieces/plank.png 384 192
 stage_piece rail art/pieces/rail.png 288 120
-stage_piece rope art/pieces/rope.png 120 960
+stage_piece rope art/pieces/rope.png 122 976
 stage_piece wheel art/pieces/wheel.png 512 511
 stage_piece lump art/pieces/lump.png 92 96
-stage_piece rake art/pieces/rake.png 362 600
-stage_piece shovel art/pieces/shovel.png 320 400
-stage_piece pile art/pieces/pile.png 410 594
-stage_piece drum art/pieces/drum.png 360 600
+stage_piece rake art/pieces/rake.png 363 600
+stage_piece shovel art/pieces/shovel.png 321 400
+stage_piece pile art/pieces/pile.png 410 592
+stage_piece drum art/pieces/drum.png 361 600
 stage_piece hopper art/pieces/hopper.png 447 560
 stage_holes -mt24.png
 pic level-main-mt62-terrain.png art/pieces/terrain.png 8 8 0 0

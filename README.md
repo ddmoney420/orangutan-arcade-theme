@@ -25,7 +25,7 @@ None of these files holds bytes from a Donkey Kong ROM, no picture is traced fro
 
 ## How the art was made
 
-The characters, props and stage pieces were generated with Google Gemini image models (`gemini-3-pro-image` and `gemini-nano-banana-2.1`) from our own prompts and references, after an earlier prototype made with ChatGPT's image tool, then keyed, fitted and animated by script. Sizes and offsets were checked in the running game on every stage. The lettering uses Russo One and Bungee (SIL Open Font License 1.1).
+The characters, props and stage pieces were generated with Google Gemini image models (`gemini-3-pro-image` and `gemini-nano-banana-2.1`) from our own prompts and references, after an earlier prototype made with ChatGPT's image tool, then cut out, fitted and animated by script. Each picture was redrawn on pure black and on pure white, and the difference between the two gives every pixel's transparency, so there is no green screen and no green fringe. Sizes and offsets were checked in the running game on every stage. The lettering uses Russo One and Bungee (SIL Open Font License 1.1).
 
 The music and sound effects are original: tunes written for this theme and synthesized from scratch in code (numpy; no samples, no recordings), with the code and the tunes written by Claude (Anthropic) at the author's direction.
 
